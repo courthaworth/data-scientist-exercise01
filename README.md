@@ -1,4 +1,11 @@
 ## RTI CDS Analytics Exercise 01
+### Court Haworth
+
+This readme contains information on my submission. The original readme and tasks are below, left intact for reference. All my analysis is done in the RTI_DataScientist_Exercise ipython Notebook file. The plots folder contains image files of plots of features vs. the response variable (over_50k). All sql manipulation was done using the python sqlite3 library at the beginning of the ipython notebook, and the data was then saved as the flattened.csv file. The database remains intact as exercise01.sqlite. Finally, the PDF file is a summary/write up of my methodology and results. In order to follow the analysis and recreate it, simply open the ipython notebook and run through it from the beginning. The flow of the analysis from reading the data, to cleaning, to model building should be clear while running through the file from top to bottom.
+
+
+
+
 
 Welcome to Exercise 01. This exercise provides a small SQLite database with some data derived from the 1996 US Census and a few analytic questions related to working with SQL and open source analysis packages.
 
